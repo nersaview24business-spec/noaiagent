@@ -119,7 +119,7 @@ export const ChatbaseNoAgent = (): JSX.Element => {
           <div className="inline-flex items-start relative flex-1 grow">
             <div className="group relative self-stretch w-14 hover:w-64 bg-wwwchatbasecowhite transition-all duration-300 ease-in-out">
               <div className="flex flex-col w-full h-full items-start justify-center relative bg-gray-100">
-                <div className="absolute w-full h-full top-0 left-0 bg-gray-100" />
+                <div className="absolute w-full h-full top-0 left-0 bg-wwwchatbasecoalabaster" />
 
                 <div className="absolute top-0 right-0 w-px h-[843px] bg-zinc-200" />
 
@@ -146,7 +146,7 @@ export const ChatbaseNoAgent = (): JSX.Element => {
                             size="sm"
                             className={`flex w-full px-2.5 py-1.5 mb-1 items-center justify-start rounded-lg h-auto ${
                               item.active 
-                                ? "bg-wwwchatbasecowoodsmoke text-wwwchatbasecowhite" 
+                                ? "bg-gray-500 text-wwwchatbasecowhite" 
                                 : "hover:bg-zinc-100"
                             }`}
                           >
