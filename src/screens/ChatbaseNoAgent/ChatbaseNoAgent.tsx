@@ -1,5 +1,5 @@
 import { Plus as PlusIcon } from "lucide-react";
-import { UserCheck, Clock, Settings } from "lucide-react";
+import { Bot, Clock, Settings } from "lucide-react";
 import React from "react";
 import {
   Avatar,
@@ -17,7 +17,7 @@ const navigationLinks = [
 ];
 
 const sidebarItems = [
-  { icon: UserCheck, label: "Agents", active: true },
+  { icon: Bot, label: "Agents", active: true },
   { icon: Clock, label: "Usage", active: false },
   { icon: Settings, label: "Settings", active: false },
 ];
