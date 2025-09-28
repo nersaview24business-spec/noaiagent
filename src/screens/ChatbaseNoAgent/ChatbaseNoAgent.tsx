@@ -146,7 +146,7 @@ export const ChatbaseNoAgent = (): JSX.Element => {
                             size="sm"
                             className={`flex w-full px-2.5 py-1.5 mb-1 items-center justify-start rounded-lg h-auto ${
                               item.active 
-                                ? "bg-gray-500 text-wwwchatbasecowhite" 
+                                ? "bg-gray-200 text-gray-700 shadow-sm" 
                                 : "hover:bg-zinc-100"
                             }`}
                           >
