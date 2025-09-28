@@ -118,8 +118,8 @@ export const ChatbaseNoAgent = (): JSX.Element => {
         <aside className="inline-flex flex-col items-start justify-center relative self-stretch flex-[0_0_auto]">
           <div className="inline-flex items-start relative flex-1 grow">
             <div className="group relative self-stretch w-14 hover:w-64 bg-wwwchatbasecowhite transition-all duration-300 ease-in-out">
-              <div className="flex flex-col w-full h-full items-start justify-center relative bg-wwwchatbasecoalabaster">
-                <div className="absolute w-full h-full top-0 left-0 bg-wwwchatbasecoalabaster" />
+              <div className="flex flex-col w-full h-full items-start justify-center relative bg-gray-100">
+                <div className="absolute w-full h-full top-0 left-0 bg-gray-100" />
 
                 <div className="absolute top-0 right-0 w-px h-[843px] bg-zinc-200" />
 
