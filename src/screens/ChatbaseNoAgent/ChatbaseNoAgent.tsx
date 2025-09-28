@@ -185,7 +185,7 @@ export const ChatbaseNoAgent = (): JSX.Element => {
             </div>
 
             <div className="flex flex-col items-center justify-center gap-8 px-8 pb-8 relative self-stretch w-full flex-[0_0_auto]">
-              <div className="relative max-w-[562px] w-[562px] h-80 bg-[url(/image.png)] bg-cover bg-[50%_50%]" />
+              <div className="relative max-w-[562px] w-[562px] h-80 bg-[url(/no-agents.png)] bg-cover bg-[50%_50%]" />
 
               <div className="inline-flex flex-col max-w-[420px] items-center justify-center gap-2 relative flex-[0_0_auto]">
                 <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
